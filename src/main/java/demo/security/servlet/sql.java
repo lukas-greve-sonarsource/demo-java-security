@@ -1,3 +1,5 @@
+package test.sql.example; 
+
 import java.util.StringUtils;
 
 public class EmetteurCriteriaApp {
